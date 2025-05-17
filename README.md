@@ -48,10 +48,10 @@ git clone https://github.com/VijayChaudhary2557/Form-Validation-by-HTML-JavaScri
 ## 📁 File Structure
 ```bash
 Form-Validation-by-HTML-JavaScript-and-PHP/
-├── index.html      → Form UI
-├── style.css       → Styling for the form
-├── script.js       → JavaScript for client-side validation
-└── form-handler.php→ PHP script for server-side validation and processing
+├── index.php       → Form UI
+├── backend.php     → Handle validation of form and save data in MySQL
+├── preview.php     → Show User saved data on his dashboard.
+└── Images/         → Save user image in this Images folder
 ```
 
 
