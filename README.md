@@ -1,13 +1,63 @@
-Registration:-
+# ✅ Form Validation using HTML, JavaScript, and PHP
 
-![Screenshot 2024-08-01 202048](https://github.com/user-attachments/assets/b5ac00b4-566b-4e74-98d1-b978110b921c)
+This project demonstrates how to perform **form validation** on the client-side using **JavaScript** and on the server-side using **PHP**. It's a simple example for beginners to understand the difference and importance of both validations in web forms.
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Server:** Apache (WAMP/XAMPP recommended)
+
+---
+
+## ✨ Features
+
+- Client-side validation using JavaScript (e.g., empty fields, email format)
+- Server-side validation using PHP
+- User-friendly error messages
+- Simple and clean user interface
+- Secure form submission
+- Save and Fetch data in MySql Database
+- Save Image
+- Using RegEx
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/VijayChaudhary2557/Form-Validation-by-HTML-JavaScript-and-PHP.git
+```
 
 
-Login:-
+### 2. Run on Local Server
 
-![Screenshot 2024-08-01 202154](https://github.com/user-attachments/assets/b5e88be9-4918-4161-83a5-7d8043287072)
+- Place the project folder inside the www or htdocs directory of WAMP or XAMPP.
+- Start Apache server.
+- Open the following URL in your browser:
+
+```bash
+  http://localhost/Form-Validation-by-HTML-JavaScript-and-PHP/
+```
 
 
-Dashboard:-
+## 📁 File Structure
+```bash
+Form-Validation-by-HTML-JavaScript-and-PHP/
+├── index.html      → Form UI
+├── style.css       → Styling for the form
+├── script.js       → JavaScript for client-side validation
+└── form-handler.php→ PHP script for server-side validation and processing
+```
 
-![Screenshot 2024-08-01 202102](https://github.com/user-attachments/assets/922f0626-18e1-4a8b-8d1d-d0169cfa7d00)
+
+## 📸 Screenshots
+
+![Screenshot 2025-05-17 212834](https://github.com/user-attachments/assets/1977d9f0-f23e-405e-9c08-841739142f7c)
+
+![Screenshot 2025-05-17 214605](https://github.com/user-attachments/assets/2f1688d1-3a80-44df-baa0-53e3f89bea02)
+
